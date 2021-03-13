@@ -17,7 +17,7 @@ class PRComponet extends Component {
 
     render() {
         return (
-            <div>
+            <div className='container'>
                 <h3>Pure component and Regular component defferent</h3>
                 <PureCompo name={this.state.name} />
                 <PureCompo name={this.state.name} />

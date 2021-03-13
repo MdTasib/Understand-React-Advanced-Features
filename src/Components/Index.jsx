@@ -1,6 +1,7 @@
 import React from 'react';
 import PRComponet from './PureRegularConponent/PRComponet';
 
+
 const Index = () => {
     return (
         <div>
