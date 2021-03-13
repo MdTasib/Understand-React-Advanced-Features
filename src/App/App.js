@@ -1,10 +1,11 @@
 import './App.css';
-import Index from './Components/Index';
 
 function App() {
   return (
     <div className="App">
-      <Index />
+      <div className="container">
+        <h3 className='bg-info'>Hlleo</h3>
+      </div>
     </div>
   );
 }
